@@ -1,0 +1,21 @@
+{
+  "name": "hard-edged-gradient",
+  "description": "Easily create hard edged gradients",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "types": "index.d.ts",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "babel-jest": "^27.3.1",
+    "jest": "^27.3.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
